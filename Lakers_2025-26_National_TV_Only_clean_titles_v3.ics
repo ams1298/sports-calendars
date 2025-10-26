@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Austin//Lakers National TV 2025-26//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏀 Lakers National TV Games (2025–26)
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:e2cc3e0d-30f4-45df-98b8-2e22c4db024a@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251030T013000Z
+DTEND:20251030T040000Z
+SUMMARY:Lakers @ Minnesota Timberwolves
+LOCATION:Target Center, Minneapolis, MN
+DESCRIPTION:Watch on ESPN.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1cebf55-1ecc-4608-b304-d67f47c0d57a@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251101T013000Z
+DTEND:20251101T040000Z
+SUMMARY:Lakers @ Memphis Grizzlies (NBA Cup GP)
+LOCATION:FedExForum, Memphis, TN
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb18acff-28c4-44fd-a606-09db2bcee6cc@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251104T030000Z
+DTEND:20251104T053000Z
+SUMMARY:Lakers @ Portland Trail Blazers
+LOCATION:Moda Center, Portland, OR
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:b0390b04-3661-42ac-a76a-ab9c7e9a77b0@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251106T030000Z
+DTEND:20251106T053000Z
+SUMMARY:Lakers @ San Antonio Spurs
+LOCATION:Frost Bank Center, San Antonio, TX
+DESCRIPTION:Watch on ESPN.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b87a716-78c8-4fe0-a7fb-f7d009bae17f@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251109T010000Z
+DTEND:20251109T033000Z
+SUMMARY:Lakers @ Atlanta Hawks
+LOCATION:State Farm Arena, Atlanta, GA
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:be6b4234-f32b-43da-8e50-6529fa500579@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251116T010000Z
+DTEND:20251116T033000Z
+SUMMARY:Lakers @ Milwaukee Bucks
+LOCATION:Fiserv Forum, Milwaukee, WI
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:12917648-6576-4888-a1fb-fc84a351198c@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251126T040000Z
+DTEND:20251126T063000Z
+SUMMARY:Lakers vs LA Clippers
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on NBC, Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:170d51c5-a6a8-43d2-a18a-e5dba615fbfd@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251129T030000Z
+DTEND:20251129T053000Z
+SUMMARY:Lakers vs Dallas Mavericks
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:7805283c-a6c4-4c5b-8243-cfe2edc15ca2@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251202T030000Z
+DTEND:20251202T053000Z
+SUMMARY:Lakers vs Phoenix Suns
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:842dbadc-4de2-40a3-8f75-d899b0d67756@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251221T033000Z
+DTEND:20251221T060000Z
+SUMMARY:Lakers @ LA Clippers
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:7330c5aa-e40a-4a2f-a567-219ea31c7863@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20251226T010000Z
+DTEND:20251226T033000Z
+SUMMARY:Lakers vs Houston Rockets (Christmas Day)
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on ABC.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:293d2186-59dc-443a-a3ad-ac5dd24a8020@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260110T033000Z
+DTEND:20260110T060000Z
+SUMMARY:Lakers vs Milwaukee Bucks
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:f892c5fb-0d52-4ee3-b745-7ca152e4be3f@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260113T030000Z
+DTEND:20260113T053000Z
+SUMMARY:Lakers @ Sacramento Kings
+LOCATION:Golden 1 Center, Sacramento, CA
+DESCRIPTION:Watch on Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:6be0eafa-99fa-4f1a-81a3-1c48692ca755@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260118T030000Z
+DTEND:20260118T053000Z
+SUMMARY:Lakers @ Portland Trail Blazers
+LOCATION:Moda Center, Portland, OR
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9afdbab-9f01-47c4-8396-0e60043f9169@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260121T030000Z
+DTEND:20260121T053000Z
+SUMMARY:Lakers @ Denver Nuggets
+LOCATION:Ball Arena, Denver, CO
+DESCRIPTION:Watch on NBC, Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9871a2-b02f-4bc5-b31f-f76bb93f643d@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260123T030000Z
+DTEND:20260123T053000Z
+SUMMARY:Lakers @ LA Clippers
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:19b30877-2e7a-47c2-ad41-ca4791709a9e@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260202T000000Z
+DTEND:20260202T023000Z
+SUMMARY:Lakers @ New York Knicks
+LOCATION:Madison Square Garden, New York, NY
+DESCRIPTION:Watch on NBC, Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1f8027b-1160-4326-8939-be0755656087@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260206T030000Z
+DTEND:20260206T053000Z
+SUMMARY:Lakers vs Philadelphia 76ers
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bfb35b4-b599-4f23-a845-43d80df80e87@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260210T030000Z
+DTEND:20260210T053000Z
+SUMMARY:Lakers vs Oklahoma City Thunder
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:6983f150-54b7-4488-bdd3-47a52846ab04@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260211T033000Z
+DTEND:20260211T060000Z
+SUMMARY:Lakers vs San Antonio Spurs
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:5e58c7ae-c46f-4ac6-bcca-bd142733565b@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260213T030000Z
+DTEND:20260213T053000Z
+SUMMARY:Lakers vs Dallas Mavericks
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:67ab4b54-2c3a-4226-877d-085a9eeb805e@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260222T233000Z
+DTEND:20260223T020000Z
+SUMMARY:Lakers vs Boston Celtics
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on NBC, Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:99780f79-ce7b-42bd-9f87-0a8c85aff353@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260306T030000Z
+DTEND:20260306T053000Z
+SUMMARY:Lakers @ Denver Nuggets
+LOCATION:Ball Arena, Denver, CO
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcccb6e4-42ad-44fd-8440-c14d7aace08d@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260311T030000Z
+DTEND:20260311T053000Z
+SUMMARY:Lakers vs Minnesota Timberwolves
+LOCATION:Crypto.com Arena, Los Angeles, CA
+DESCRIPTION:Watch on NBC, Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:09b18c1a-2ccc-4814-93f2-202def0f45d2@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260317T010000Z
+DTEND:20260317T033000Z
+SUMMARY:Lakers @ Houston Rockets
+LOCATION:Toyota Center, Houston, TX
+DESCRIPTION:Watch on Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:14c7c3f0-803e-41e3-a669-ad5e0c974872@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260321T230000Z
+DTEND:20260322T013000Z
+SUMMARY:Lakers @ Orlando Magic
+LOCATION:Kia Center, Orlando, FL
+DESCRIPTION:Watch on NBA TV.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:15233899-622f-4ddd-855f-d4a506fe28ac@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260402T233000Z
+DTEND:20260403T020000Z
+SUMMARY:Lakers @ Oklahoma City Thunder
+LOCATION:Paycom Center, Oklahoma City, OK
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3f3615-68f3-4005-a0a9-2969a33d11d9@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260405T233000Z
+DTEND:20260406T020000Z
+SUMMARY:Lakers @ Dallas Mavericks
+LOCATION:American Airlines Center, Dallas, TX
+DESCRIPTION:Watch on NBC, Peacock.\nTime shown in Central. Subject to change.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9c1cce-fc35-4899-8b30-150673ec8079@lakers-national-telecast
+DTSTAMP:20251026T065503Z
+DTSTART:20260410T020000Z
+DTEND:20260410T043000Z
+SUMMARY:Lakers @ Golden State Warriors
+LOCATION:Chase Center, San Francisco, CA
+DESCRIPTION:Watch on Prime Video.\nTime shown in Central. Subject to change.
+END:VEVENT
+END:VCALENDAR
